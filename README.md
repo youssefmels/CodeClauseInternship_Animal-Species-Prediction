@@ -4,3 +4,6 @@ I used VGG16 and employed fine tuning to get the best results. I utilized dropou
 In the code, I visualized the accuracy and loss of the train and validation when freezing the weights and after unfreezing the weights.
 I would like to thank CodeClause for giving me this opportunity to learn and work on this project.
 
+
+Dataset link: https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals?select=animals
+
